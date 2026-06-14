@@ -60,6 +60,24 @@ Examples:
 * Sort assignments by priority
 
 ---
+## Tools and Libraries
+
+This project uses the following tools and libraries:
+
+### Programming Language
+* Python 3.13 – Main language used to develop the backend logic and core functionality of the system.
+
+### Web Framework
+* Reflex (v0.9.4) – A Python-based full-stack framework used to build the user interface and connect frontend with backend logic.
+
+### Data Validation
+* Pydantic – Used to define structured data models and ensure input validation for assignments.
+
+### Standard Libraries
+* datetime – Used for handling dates and calculating deadlines.
+* typing (List) – Used for type hinting and improving code clarity and structure.
+
+---
 
 ## System Architecture
 
@@ -135,6 +153,14 @@ http://localhost:3000
 ![Dashboard](dashboard.png)
 
 
+---
+## License
+
+This project is licensed under the MIT License.
+
+The MIT License is a permissive open-source license that allows others to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, provided that the original license and copyright notice are included.
+
+See the `LICENSE` file for more details.
 ---
 
 ## Author
