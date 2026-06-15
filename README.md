@@ -57,7 +57,7 @@ Examples:
 
 * Filter assignments by subject
 * Sort assignments by due date
-* Sort assignments by priority
+
 
 ---
 ## Tools and Libraries
